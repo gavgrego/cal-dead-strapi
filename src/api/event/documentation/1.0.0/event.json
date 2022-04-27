@@ -410,6 +410,9 @@
                               "Tickets": {
                                 "type": "string"
                               },
+                              "venue": {
+                                "type": "string"
+                              },
                               "location": {
                                 "type": "string",
                                 "enum": [
@@ -1388,6 +1391,9 @@
                             "Tickets": {
                               "type": "string"
                             },
+                            "venue": {
+                              "type": "string"
+                            },
                             "location": {
                               "type": "string",
                               "enum": [
@@ -2290,6 +2296,9 @@
                             "Tickets": {
                               "type": "string"
                             },
+                            "venue": {
+                              "type": "string"
+                            },
                             "location": {
                               "type": "string",
                               "enum": [
@@ -3177,6 +3186,9 @@
                             "Tickets": {
                               "type": "string"
                             },
+                            "venue": {
+                              "type": "string"
+                            },
                             "location": {
                               "type": "string",
                               "enum": [
@@ -3694,6 +3706,9 @@
                         "type": "string"
                       },
                       "Tickets": {
+                        "type": "string"
+                      },
+                      "venue": {
                         "type": "string"
                       },
                       "location": {

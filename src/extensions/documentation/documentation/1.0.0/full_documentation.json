@@ -14,7 +14,7 @@
       "name": "Apache 2.0",
       "url": "https://www.apache.org/licenses/LICENSE-2.0.html"
     },
-    "x-generation-date": "2022-04-24T16:30:07.635Z"
+    "x-generation-date": "2022-04-27T03:40:07.348Z"
   },
   "x-strapi-config": {
     "path": "/documentation",
@@ -458,6 +458,9 @@
                                 "type": "string"
                               },
                               "Tickets": {
+                                "type": "string"
+                              },
+                              "venue": {
                                 "type": "string"
                               },
                               "location": {
@@ -1438,6 +1441,9 @@
                             "Tickets": {
                               "type": "string"
                             },
+                            "venue": {
+                              "type": "string"
+                            },
                             "location": {
                               "type": "string",
                               "enum": [
@@ -2340,6 +2346,9 @@
                             "Tickets": {
                               "type": "string"
                             },
+                            "venue": {
+                              "type": "string"
+                            },
                             "location": {
                               "type": "string",
                               "enum": [
@@ -3227,6 +3236,9 @@
                             "Tickets": {
                               "type": "string"
                             },
+                            "venue": {
+                              "type": "string"
+                            },
                             "location": {
                               "type": "string",
                               "enum": [
@@ -3744,6 +3756,9 @@
                         "type": "string"
                       },
                       "Tickets": {
+                        "type": "string"
+                      },
+                      "venue": {
                         "type": "string"
                       },
                       "location": {
