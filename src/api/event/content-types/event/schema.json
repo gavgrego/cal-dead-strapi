@@ -38,6 +38,9 @@
     "Tickets": {
       "type": "text"
     },
+    "venue": {
+      "type": "text"
+    },
     "location": {
       "type": "enumeration",
       "enum": [
