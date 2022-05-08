@@ -421,6 +421,9 @@
                                   "other"
                                 ]
                               },
+                              "slug": {
+                                "type": "string"
+                              },
                               "createdAt": {
                                 "type": "string",
                                 "format": "date-time"
@@ -1402,6 +1405,9 @@
                                 "other"
                               ]
                             },
+                            "slug": {
+                              "type": "string"
+                            },
                             "createdAt": {
                               "type": "string",
                               "format": "date-time"
@@ -2307,6 +2313,9 @@
                                 "other"
                               ]
                             },
+                            "slug": {
+                              "type": "string"
+                            },
                             "createdAt": {
                               "type": "string",
                               "format": "date-time"
@@ -3197,6 +3206,9 @@
                                 "other"
                               ]
                             },
+                            "slug": {
+                              "type": "string"
+                            },
                             "createdAt": {
                               "type": "string",
                               "format": "date-time"
@@ -3718,6 +3730,9 @@
                           "la",
                           "other"
                         ]
+                      },
+                      "slug": {
+                        "type": "string"
                       },
                       "createdAt": {
                         "type": "string",

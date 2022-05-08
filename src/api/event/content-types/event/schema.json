@@ -50,6 +50,10 @@
       ],
       "default": "bay-area",
       "required": true
+    },
+    "slug": {
+      "type": "uid",
+      "targetField": "name"
     }
   }
 }
